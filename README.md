@@ -1,5 +1,5 @@
 # 📚 Digital Logbook
-#### Year Accomplished : Expected to finish June 2025 (Final Graduation Project)
+#### Year Accomplished : Expected to finish Agust 2025 (Final Graduation Project)
 #### Role/Position : UI/UX Designer and Full-Stack Developer
 #### Publication Link : [View My Website Design](https://www.figma.com/design/2EFxJlEerU8aT9AXpMHHkt/Project-Tugas-Akhir?node-id=145-777&t=t1ZEWux7OmrOMBXx-1)
 #### Project Description
